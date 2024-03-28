@@ -1,0 +1,17 @@
+.myOwn {
+    color: green;
+    font-family: "myFont";
+    font-size: 32px;
+}
+
+.btnTypes {
+    color: green;
+    font-family: "myFont";
+    font-size: 30px;
+}
+
+.btnLogs {
+    color: blue;
+    font-family: "myFont";
+    font-size: 30px;
+}
